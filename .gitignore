@@ -57,6 +57,5 @@ lib/
 .env.production
 .gitconfig
 example/yarn.lock
-yarn.lock
 
 .vercel
